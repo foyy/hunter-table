@@ -6,6 +6,8 @@ Here's my more-finished thoughts. I tried to stay true to the initial approaches
 
 I totally get that it wouldn't be fair to judge my interview + this submission against other folks who only had the ~45 minutes, but it's rare that I find a place that I leave each interview with a feeling like I'd really like working somehwere, and I've felt that way here so I wanted to shoot another shot.
 
+I attached a short Loom video walking through things in the email.
+
 To get started:
 
 ` npm run i`
