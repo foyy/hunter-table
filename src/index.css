@@ -1,0 +1,22 @@
+table {
+  border-collapse: separate;
+  border-spacing: 20px;
+}
+
+.table-display {
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.table-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.table-input {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
